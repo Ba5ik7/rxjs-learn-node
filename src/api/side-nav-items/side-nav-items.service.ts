@@ -12,21 +12,21 @@ export class SideNavItemsService {
         subSideNavItems: [
           {
             name: 'combination',
-            link: 'combination',
+            link: 'operators/combination',
             subSideNavItems: [
               {
                 name: 'combineall',
-                link: 'combineall',
+                link: 'operators/combination/combineall'
               },
             ]
           },
           {
             name: 'conditional',
-            link: 'conditional',
+            link: 'operators/conditional',
             subSideNavItems: [
               {
                 name: 'defaultifempty',
-                link: 'defaultifempty',
+                link: 'operators/conditional/defaultifempty'
               },
             ]
           }
@@ -38,7 +38,7 @@ export class SideNavItemsService {
         subSideNavItems: [
           {
             name: 'asyncsubject',
-            link: 'asyncsubject',
+            link: 'subjects/asyncsubject'
           }
         ]
       }
