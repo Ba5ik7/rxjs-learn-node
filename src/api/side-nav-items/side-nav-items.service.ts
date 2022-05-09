@@ -18,6 +18,30 @@ export class SideNavItemsService {
                 name: 'combineall',
                 link: 'operators/combination/combineall'
               },
+              {
+                name: 'combineall',
+                link: 'operators/combination/combineall'
+              },
+              {
+                name: 'combineall',
+                link: 'operators/combination/combineall'
+              },
+              {
+                name: 'combineall',
+                link: 'operators/combination/combineall'
+              },
+              {
+                name: 'combineall',
+                link: 'operators/combination/combineall'
+              },
+              {
+                name: 'combineall',
+                link: 'operators/combination/combineall'
+              },
+              {
+                name: 'combineall',
+                link: 'operators/combination/combineall'
+              },
             ]
           },
           {
